@@ -1,4 +1,4 @@
-- 👋 Hi, I’m HaGa, i am an IT private tutor.
+- 👋 Hi, I’m HaGa. I am an IT private tutor.
 - 👀 I'm interested in technology, I'm a coder at the moment and need a lot of experience.
 - 🌱 I’m I'm currently learning team.
 - 🤝 I'm looking for a suitable collaboration
