@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @luisadha a person with his unique character, playing with the terminal every day and love android
-- 👀 I'm interested in technology, I'm a novice coder at the moment and need a lot of experience.
-- 🌱 I’m I'm currently learning shells.
+- 👋 Hi, I’m HaGa, i am an IT private tutor.
+- 👀 I'm interested in technology, I'm a coder at the moment and need a lot of experience.
+- 🌱 I’m I'm currently learning team.
 - 🤝 I'm looking for a suitable collaboration
 - 💞 Happy to try new scripts to run especially useful tools/utilities
-- 📫 How to reach me? Paypal or E-mail: adharudin14@gmail.com
+- 📫 How to reach me ? Comment on my project.
 ..
 <!---
 luisadha/luisadha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
